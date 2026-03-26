@@ -321,5 +321,5 @@ Selamat datang di repositori **123Tool**. Ini adalah daftar kurasi sumber daya, 
 * **[TeleDash Pro](https://github.com/SPY-E/teledash-pro)** – Panel manajemen multi-bot Telegram berbasis React.
 
 ---
-**Dikelola dengan penuh dedikasi oleh [123Tool]**
+**Dikelola dengan penuh dedikasi oleh [SPYE-E & 123Tool]**
 *Mari berkolaborasi untuk membangun solusi digital yang lebih baik dan terjangkau.*
