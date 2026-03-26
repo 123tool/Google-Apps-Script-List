@@ -1,6 +1,6 @@
-# 🚀 SPY-E: Koleksi Utama Google Apps Script (GAS)
+# 🚀 Koleksi Google Apps Script (GAS)
 
-Selamat datang di repositori **SPY-E**. Ini adalah daftar kurasi sumber daya, pustaka, alat pengembangan, dan contoh kode terbaik untuk Google Apps Script. Proyek ini dirancang untuk membantu pengembang membangun solusi otomatisasi yang profesional, estetik, dan efisien menggunakan ekosistem Google Workspace.
+Selamat datang di repositori **123Tool**. Ini adalah daftar kurasi sumber daya, pustaka, alat pengembangan, dan contoh kode terbaik untuk Google Apps Script. Proyek ini dirancang untuk membantu pengembang membangun solusi otomatisasi yang profesional, estetik, dan efisien menggunakan ekosistem Google Workspace.
 
 ---
 
@@ -287,7 +287,10 @@ Selamat datang di repositori **SPY-E**. Ini adalah daftar kurasi sumber daya, pu
 
 ### XML
 * **[xmlToJson](https://gist.github.com/erickoledadevrel/6b1e9e2796e3c21f669f)** – Konversi string XML ke JSON.
-
+* **[JSON Puller](https://gist.github.com/jalcantarab/0eb43b13c97e4f784bd0be327f6ced52)** – Transformasi Sheet ke JSON.
+* **[JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit)** – Ekstraksi data struktur kompleks.
+* **[ImportJSON](https://github.com/bradjasper/ImportJSON)** – Fungsi kustom impor JSON ke Sheets.
+  
 ### JSON
 * **[JSON Puller](https://gist.github.com/jalcantarab/0eb43b13c97e4f784bd0be327f6ced52)** – Transformasi data Sheet ke JSON.
 * **[JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit)** – Ekstraksi data via ekspresi simpel.
